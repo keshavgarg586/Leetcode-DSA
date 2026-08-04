@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0496-next-greater-element-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [3151-special-array-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/3151-special-array-i) |
 ## Binary Search
 |  |
@@ -24,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
