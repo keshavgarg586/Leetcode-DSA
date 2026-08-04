@@ -37,4 +37,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
