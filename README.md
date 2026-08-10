@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [3151-special-array-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/3151-special-array-i) |
@@ -29,9 +30,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -49,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0050-powx-n) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
