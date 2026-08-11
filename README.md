@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0169-majority-element) |
 | [0496-next-greater-element-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [2643-row-with-maximum-ones](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/2643-row-with-maximum-ones) |
 | [3151-special-array-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/3151-special-array-i) |
 ## Binary Search
 |  |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
