@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/2643-row-with-maximum-ones) |
 | [3151-special-array-i](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/3151-special-array-i) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/1901-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/2643-row-with-maximum-ones) |
 ## Two Pointers
