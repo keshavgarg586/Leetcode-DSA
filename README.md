@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0367-valid-perfect-square](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0050-powx-n) |
+| [0367-valid-perfect-square](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/keshavgarg586/Leetcode-DSA/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
